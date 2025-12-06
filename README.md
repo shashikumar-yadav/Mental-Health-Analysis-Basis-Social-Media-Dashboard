@@ -33,6 +33,8 @@ Slice data by age, gender, and other attributes to uncover targeted insights.
 
 # 📷 Screenshots
 
+  ![Dashboard Preview](https://github.com/shashikumar-yadav/Mental-Health-Analysis-Basis-Social-Media-Dashboard/blob/main/Mental%20Health%20Analysis%20Dashboard.png)
+
 # 🧠 Author
 - Shashikumar Yadav
 - IT Consultant & MSc Data Science Student
